@@ -108,23 +108,18 @@ The monthly active user metric is good to use in measuring user engagement
 ---
 Before going into modeling I carried out exploratory data anaylsis on the various attributes of the dataset to aid in having a better understand of the datasets and how they relate to each other.
 
->**Plot of the distribution of users by country**
 ![Listings Screenshot](./reports/images/plot_country.png)
 Great Britain has the highest number of users, this could be because GemStones started from GB and has a strong presence there. Looking at the plot, gradual advancement are being made into other countries, the numbers will increase with the execution of targeted marketing campaigns. From the user birth year plot above, the bulk of the user base are between 1982 - 1997, they are largely young individuals, there is a possibility that over 80% of them use Facebook. Facebook has almost 2.5 billion monthly active users as of the fourth quarter of 2019. Facebook's AD services could be used to target "look alike customers" there by improving growth and user engagement.
 
->**Plot of the distribution of users by plan**
 ![Listings Screenshot](./reports/images/plot_plan.png)
 The Standard plan is the highest here, I believe this is so because it is free £0/m, and has a enough features to keep users. We could personalize the value of the premium plan and upsell to the customers on the standard plan, or we could get the profiles of the users in the premium plan and use the Facebook AD services to target "look alike customers" 
 
->**Plot of the distribution of transactions by transaction type**
 ![Listings Screenshot](./reports/images/plot_transaction_type.png)
 Card Payment is the highest here, this is likely because users carry out day to day transactions like paying for goods services more than other transaction types.
 
->**Plot of the distribution of transactions by currency**
 ![Listings Screenshot](./reports/images/plot_currency.png)
 The top 2 currencies in use here are the EUR and GBP.
 
->**Plot of the distribution of user birth year by engagement**
 ![Listings Screenshot](./reports/images/plot_birthyear.png) 
 From the distribution of users by birth year, the inactivity observed spans across every age group represented. (1 = Engaged, 0 = Unengaged)
 
