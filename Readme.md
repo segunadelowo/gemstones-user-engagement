@@ -2,7 +2,7 @@
 ---
 ***Why is user engagement so important?***
 ![Listings Screenshot](./reports/images/user-engagement.png)
-source: https://images.app.goo.gl/VoPwFDUKMpPnAQ546
+Source: https://images.app.goo.gl/VoPwFDUKMpPnAQ546
 
 User engagement is highly correlated with overall profitability. User attention is a finite resource and if users choose to spend their time on a particular app or site, they’re signaling that they find value in it. This allows businesses to make money from the product or service with ads, subscriptions, or sales. <br>
 Source: https://mixpanel.com/topics/what-is-user-engagement/
