@@ -110,7 +110,7 @@ Before going into modeling I carried out exploratory data anaylsis on the variou
 
 >**Plot of the distribution of users by country**
 ![Listings Screenshot](./reports/images/plot_country.png)
-Great Britain has the highest number of users, this could be because GemStones started from GB and has a strong presence there. Looking at the plot, gradual advancement are being made into other countries, the numbers will increase with the execution of targeted marketing campaigns. From the user birth year plot above, the bulk of the user base are between 1979 - 2000, they are largely young individuals, there is a possibility that over 80% of them use Facebook. Facebook has almost 2.5 billion monthly active users as of the fourth quarter of 2019. Facebook's AD services could be used to target "look alike customers" there by improving growth and user engagement.
+Great Britain has the highest number of users, this could be because GemStones started from GB and has a strong presence there. Looking at the plot, gradual advancement are being made into other countries, the numbers will increase with the execution of targeted marketing campaigns. From the user birth year plot above, the bulk of the user base are between 1982 - 1997, they are largely young individuals, there is a possibility that over 80% of them use Facebook. Facebook has almost 2.5 billion monthly active users as of the fourth quarter of 2019. Facebook's AD services could be used to target "look alike customers" there by improving growth and user engagement.
 
 >**Plot of the distribution of users by plan**
 ![Listings Screenshot](./reports/images/plot_plan.png)
